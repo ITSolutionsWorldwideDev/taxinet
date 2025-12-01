@@ -30,7 +30,7 @@ const page = () => {
 
   return (
     <div>
-      <div className="bg-black relative z-50">
+      <div className="bg-black relative z-50 text-white">
         <Nav />
       </div>
       <Hero headerText={selectedBlog.headerText}/>

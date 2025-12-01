@@ -31,7 +31,7 @@ const page = () => {
   
   return (
     <div className="">
-      <div className="bg-black">
+      <div className="bg-black text-white">
         <Nav />
       </div>
       <TaxiServiceHero headerText={selectedBlog.headerText} headerImage={selectedBlog.headerImage} imgaeRootFolder={imgaeRootFolder}/>

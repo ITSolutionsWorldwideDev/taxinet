@@ -15,7 +15,11 @@ const page = () => {
   return (
     <div className="bg-black">
       <div className="container mx-auto">
-        <Nav />
+        
+        <div className="text-white">
+          
+          <Nav />
+          </div>
 
         <Textwith2Btns />
 

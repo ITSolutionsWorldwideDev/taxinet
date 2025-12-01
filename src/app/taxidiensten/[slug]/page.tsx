@@ -32,7 +32,7 @@ const page = () => {
   console.log(selectedBlog.but);
   return (
     <div className="">
-      <div className="bg-black">
+      <div className="bg-black text-white">
         <Nav />
       </div>
 

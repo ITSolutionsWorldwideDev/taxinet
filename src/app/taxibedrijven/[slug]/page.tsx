@@ -26,7 +26,7 @@ const page = () => {
 
   return (
     <div>
-      <div className="bg-black">
+      <div className="bg-black text-white">
         <Nav />
       </div>
       <Hero2Buttons

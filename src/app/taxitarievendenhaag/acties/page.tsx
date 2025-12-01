@@ -12,7 +12,7 @@ import Footer from "../../components/layout/home/Footer";
 const page = () => {
   return (
     <div className="bg-black">
-      <div className="bg-black">
+      <div className="bg-black text-white">
         <Nav />
       </div>
       <Hero2Buttons

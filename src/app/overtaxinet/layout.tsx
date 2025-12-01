@@ -14,7 +14,7 @@ export default function TaxiLayout({
 }) {
   return (
     <div className="min-h-screen bg-black text-gray-800">
-      <div className="bg-black">
+      <div className="bg-black text-white">
         <Nav />
       </div>
       <main className="">{children}</main>
